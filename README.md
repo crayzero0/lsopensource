@@ -13,7 +13,7 @@ Lost Saga 2014 Open Source
 <p>Navicat Premium              : <i>Soon</i></p>
 <p>DirectX SDK                  : <i><a href="https://www.microsoft.com/en-us/download/details.aspx?id=6812" target="_blank">Download Here</a></i></p>
 <p>Boost Libs (1.47 & 1.50)     : <i><a href="https://drive.google.com/file/d/1e9ScaC8e1-HDANzx_m-LNBMHj-1JNktA/view?usp=sharing" target="_blank">Download Here</a></i></p>
-<p>Repack Source                : <i><a href="#" target="_blank">Download Here</a></i></p>
+<p>Repack Source                : <i>Soon</i></p>
 
 # Contact
 <p>

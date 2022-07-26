@@ -17,5 +17,5 @@ Lost Saga 2014 Open Source
 
 # Contact
 <p>
-    <a href="https://discord.gg/AKeMWKD5" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
+    <a href="https://discord.gg/u9PW5pwcej" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
 </p>
